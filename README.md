@@ -7,8 +7,9 @@ Print Height: 	4"	(10,16 CM)
 
 # Examples: 
 
-## Template:
-![Template](.Templates/Sega%20-%20Saturn%20(Europe,%20USA).png)
-
-## Game:
-![Game](Sony%20-%20PlayStation%20(World)/Metal%20Gear%20Solid.png)
+## Front:
+![Front](.Readme_Assets/Front.jpg)
+## Side:
+![Back](.Readme_Assets/Side.jpg)
+## Back:
+![Back](.Readme_Assets/Back.jpg)
