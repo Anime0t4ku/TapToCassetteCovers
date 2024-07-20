@@ -9,4 +9,4 @@ Simply download the desired PNG in the code area.
 ![Template](.Templates/Sega%20Saturn%20Template.png)
 
 ## Game:
-![Game](Sony%20Playstation/Metal%20Gear%20Solid.png)
+![Game](Sony%20-%20PlayStation%20(World)/Metal%20Gear%20Solid.png)
