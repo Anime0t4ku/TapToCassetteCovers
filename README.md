@@ -35,7 +35,7 @@ Luckily for us, all different kinds of shaped and sized NFC cards, chips, tags e
 
 # Dimensions:
 
-System Dimensions for the TapTo NFC system. For use with Cassette Tape Cases to store your NFC Cards.
+Printing Dimensions for the TapTo NFC system. For use with Cassette Tape Cases to store your NFC Cards.
 Simply download the desired PNG in the code area.
 
 Print width: 	4,11"	(10,44 CM)
