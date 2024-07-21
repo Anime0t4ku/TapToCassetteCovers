@@ -1,12 +1,12 @@
 # TapToCassetteCovers
 
-Intro:
+## Intro:
 
 With the advent of digital gaming, more and more physical media starts to disappear. Whether it be because of practicability, laziness or simply, damage. This is why I decided that I wanted to spice my digital collection up a bit, by having something physical again without filling my closed with a massive collection of boxes. 
 
 What to do, what to do. I decided that going the route of sourcing all these games on the internet was a no go. For starters, some of these games can be extremely expensive not to mention rare to find. And even in the rare instances you do find the game you’re looking for, you would be hard pressed to have it in any kind of decent condition for a ‘good’ price as some of these games are getting close to 40 years old!
 
-## Showase:
+## Showcase:
 ![showcase1](.Readme_Assets/showcase1.jpg)
 ![showcase2](.Readme_Assets/showcase2.jpg)
 
@@ -23,19 +23,19 @@ They are small but not TOO small. In fact I think they are the perfect size. Som
 
 Finally, what ‘digital’ media to use them for, and how? Cue the TapTo project! This amazing project allows you to use a NFC tag with a NFC-reader and have it boot up a game digitally! Currently it works with the MiSTer Project and with more to come (Windows, Linux, Batocera etc.)! 
 
-If you want to learn more about how to do this with your own, follow this guide: 
+If you want to learn more about how to do this with your own, follow this guide: https://tapto.wiki/Getting_Started
 
 ![nfccards](.Readme_Assets/nfccards.jpg)
 
-source: timeextension.com
+_source: timeextension.com_
 
 Luckily for us, all different kinds of shaped and sized NFC cards, chips, tags etc. fit in these cassette tape cases! People are even making inserts so they can store their NFC cards in these cases so they have a snug fit without rattling. 
 
-
+**Happy Gaming!**
 
 # Dimensions:
 
-System Templates & Dimensions for the TapTo NFC system. For use with Cassette Tape Cases to store your NFC Cards.
+System Dimensions for the TapTo NFC system. For use with Cassette Tape Cases to store your NFC Cards.
 Simply download the desired PNG in the code area.
 
 Print width: 	4,11"	(10,44 CM)
