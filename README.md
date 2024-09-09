@@ -2,7 +2,7 @@
 
 ## Intro:
 
-With the advent of digital gaming, more and more physical media starts to disappear. Whether it be because of practicability, laziness or simply, damage. This is why I decided that I wanted to spice my digital collection up a bit, by having something physical again without filling my closed with a massive collection of boxes. 
+With the advent of digital gaming, more and more physical media starts to disappear. Whether it be because of practicability, laziness or simply, damage. This is why I decided that I wanted to spice my digital collection up a bit, by having something physical again without filling my closet with a massive collection of boxes. 
 
 What to do, what to do. I decided that going the route of sourcing all these games on the internet was a no go. For starters, some of these games can be extremely expensive not to mention rare to find. And even in the rare instances you do find the game you’re looking for, you would be hard pressed to have it in any kind of decent condition for a ‘good’ price as some of these games are getting close to 40 years old!
 
