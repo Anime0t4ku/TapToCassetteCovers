@@ -1,3 +1,6 @@
+## Update December 25, 2024:
+The reboot of this project is available [here](https://github.com/Anime0t4ku/Cassette-GameCovers)
+
 ## Update October 18, 2024:
 This project is on hold for the time being. I'm considering changing the over all design of the covers which is why i won't be doing new covers for this specific layout.
 
